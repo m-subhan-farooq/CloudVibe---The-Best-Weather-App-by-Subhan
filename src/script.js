@@ -28,7 +28,7 @@
 //     console.error('Error fetching the weather data:', error);
 //   });
 
-const apiKey = "7e37da0056b64044ac2154013240509";
+const apiKey = "7e94ab5b12874605af590718242512";
 
 // Function to get the user's location
 function getLocationAndWeather() {
