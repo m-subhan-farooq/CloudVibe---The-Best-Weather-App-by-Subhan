@@ -28,8 +28,7 @@
 //     console.error('Error fetching the weather data:', error);
 //   });
 
-const apiKey = process.env.API_KEY;
-print(apiKey)
+const apiKey = "7e37da0056b64044ac2154013240509";
 
 // Function to get the user's location
 function getLocationAndWeather() {
